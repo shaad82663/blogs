@@ -9,6 +9,7 @@
 **Email : shaad82663@gmail.com**
 
 **Pre-requisites : NodeJS Enviroment, Npm, Git Bash, Code Editor (VSCode prefered).**
+**NOTE:You should have good knowledge of JaavScript, NodeJS, Mongodb(mongoose) for following this blog.**
 
 Meta data : Blog version:  v1.0.0 \[Updates are active\] ,  Last update : 29-Dec-2022
 
